@@ -5,7 +5,7 @@
 
   <!-- vicky Common -->
   <project path="device/motorola/vicky" name="android_device_motorola_vicky" remote="Finite-Code" />
-  <project path="vendor/motorola/vicky" name="proprietary_vendor_motorola_vicky" remote="Finite-Code" />
+  <project path="vendor/motorola/vicky" name="android_vendor_motorola_vicky" remote="Finite-Code" />
 
   <!-- Hardware -->
   <project path="hardware/mediatek" name="android_hardware_mediatek" remote="lineage" />
