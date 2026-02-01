@@ -1,0 +1,16 @@
+<manifest>
+
+  <remote name="lineage" fetch="https://github.com/LineageOS/" revision="lineage-23.0" />
+  <remote name="Finite-Code" fetch="https://github.com/Finite-Code/" revision="vicky" />
+
+  <!-- vicky Common -->
+  <project path="device/motorola/vicky" name="android_device_motorola_vicky" remote="Finite-Code" />
+  <project path="vendor/motorola/vicky" name="proprietary_vendor_motorola_vicky" remote="Finite-Code" />
+
+  <!-- Hardware -->
+  <project path="hardware/mediatek" name="android_hardware_mediatek" remote="lineage" />
+
+  <!-- SEPolicy -->
+  <project path="device/mediatek/sepolicy_vndr" name="android_device_mediatek_sepolicy_vndr" remote="lineage" />
+  
+</manifest>
