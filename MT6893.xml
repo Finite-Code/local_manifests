@@ -1,6 +1,6 @@
 <manifest>
 
-  <remote name="ossi" fetch="https://github.com/mt6893-development/" revision="lineage-21" />
+  <remote name="ossi" fetch="https://github.com/mt6893-development/" revision="lineage-23" />
   <remote name="liwhy1" fetch="https://github.com/liwhy1/" revision="lineage-23" />
   <remote name="Finite-Code" fetch="https://github.com/Finite-Code/" revision="pixelos-16" />
   <remote name="camera" fetch="https://gitlab.com/liwhy1/" revision="main" />
